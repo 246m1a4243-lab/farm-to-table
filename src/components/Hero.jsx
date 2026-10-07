@@ -80,7 +80,7 @@ export default function Hero({ onOpenGetStarted }) {
           <div className="hero-visual-wrapper">
             <div className="hero-card-frame">
               <img
-                src="/images/hero.jpg"
+                src="./images/hero.jpg"
                 alt="Farm-to-Table Experience Bistro artisanal dining spread with freshly harvested organic produce"
                 className="hero-main-img"
               />
@@ -113,7 +113,7 @@ export default function Hero({ onOpenGetStarted }) {
               {/* Floating Badge 3: Logo Emblem Watermark */}
               <div className="hero-logo-emblem">
                 <img
-                  src="/images/logo.png"
+                  src="./images/logo.png"
                   alt="Emblem"
                   className="emblem-img"
                 />

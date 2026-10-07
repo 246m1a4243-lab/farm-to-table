@@ -79,7 +79,7 @@ export default function Navbar({ onOpenGetStarted }) {
           {/* Brand Logo & Name */}
           <a href="#home" onClick={(e) => handleNavClick(e, '#home')} className="brand-logo-link">
             <img 
-              src="/images/logo.png" 
+              src="./images/logo.png" 
               alt="Farm-to-Table Experience Bistro Logo" 
               className="brand-logo-img" 
             />

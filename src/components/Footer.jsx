@@ -37,7 +37,7 @@ export default function Footer({ onOpenGetStarted }) {
         {/* Brand Column */}
         <div className="footer-brand-col">
           <a href="#home" onClick={(e) => handleNavClick(e, '#home')} className="footer-brand-link">
-            <img src="/images/logo.png" alt="Farm-to-Table Bistro Logo" className="footer-logo" />
+            <img src="./images/logo.png" alt="Farm-to-Table Bistro Logo" className="footer-logo" />
             <div>
               <span className="footer-brand-name">Farm-to-Table</span>
               <span className="footer-brand-sub">EXPERIENCE BISTRO</span>
